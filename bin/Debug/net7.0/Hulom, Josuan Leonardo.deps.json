@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hulom, Josuan Leonardo/1.0.0": {
+        "runtime": {
+          "Hulom, Josuan Leonardo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hulom, Josuan Leonardo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

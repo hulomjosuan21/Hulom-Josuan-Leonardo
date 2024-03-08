@@ -1,0 +1,15 @@
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\bin\Debug\net7.0\Hulom, Josuan Leonardo.exe
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\bin\Debug\net7.0\Hulom, Josuan Leonardo.deps.json
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\bin\Debug\net7.0\Hulom, Josuan Leonardo.runtimeconfig.json
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\bin\Debug\net7.0\Hulom, Josuan Leonardo.dll
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\bin\Debug\net7.0\Hulom, Josuan Leonardo.pdb
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.csproj.AssemblyReference.cache
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.AssemblyInfoInputs.cache
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.AssemblyInfo.cs
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.csproj.CoreCompileInputs.cache
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.dll
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\refint\Hulom, Josuan Leonardo.dll
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.pdb
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\Hulom, Josuan Leonardo.genruntimeconfig.cache
+C:\Users\FOR CLONE\Desktop\Hulom, Josuan Leonardo\obj\Debug\net7.0\ref\Hulom, Josuan Leonardo.dll
