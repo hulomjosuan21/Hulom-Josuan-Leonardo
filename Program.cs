@@ -6,11 +6,14 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Animal animal1 = new Animal();
-            animal1.Name = "Dog";
-            animal1.Traits = "Friendly";
-            animal1.Teeth = "Sharp";
-            animal1.WhoAmI();
+            Rectangle rectangle1 = new Rectangle(123,23123);
+            rectangle1.CalculatePerimeter();
+            // Animal animal1 = new Animal();
+            // animal1.Name = "Dog";
+            // animal1.Traits = "Friendly";
+            // animal1.Teeth = "Sharp";
+            // animal1.WhoAmI();
+
         }
     }
 
