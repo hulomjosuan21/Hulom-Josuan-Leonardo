@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FOR CLONE\\Desktop\\Hulom, Josuan Leonardo\\Hulom, Josuan Leonardo.csproj": {}
+    "C:\\Users\\FOR CLONE\\Documents\\Hulom-Josuan-Leonardo\\Hulom, Josuan Leonardo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FOR CLONE\\Desktop\\Hulom, Josuan Leonardo\\Hulom, Josuan Leonardo.csproj": {
+    "C:\\Users\\FOR CLONE\\Documents\\Hulom-Josuan-Leonardo\\Hulom, Josuan Leonardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FOR CLONE\\Desktop\\Hulom, Josuan Leonardo\\Hulom, Josuan Leonardo.csproj",
+        "projectUniqueName": "C:\\Users\\FOR CLONE\\Documents\\Hulom-Josuan-Leonardo\\Hulom, Josuan Leonardo.csproj",
         "projectName": "Hulom, Josuan Leonardo",
-        "projectPath": "C:\\Users\\FOR CLONE\\Desktop\\Hulom, Josuan Leonardo\\Hulom, Josuan Leonardo.csproj",
+        "projectPath": "C:\\Users\\FOR CLONE\\Documents\\Hulom-Josuan-Leonardo\\Hulom, Josuan Leonardo.csproj",
         "packagesPath": "C:\\Users\\FOR CLONE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FOR CLONE\\Desktop\\Hulom, Josuan Leonardo\\obj\\",
+        "outputPath": "C:\\Users\\FOR CLONE\\Documents\\Hulom-Josuan-Leonardo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

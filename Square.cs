@@ -1,6 +1,6 @@
 namespace MyApp
 {
-    public class Square
+    public class Square : Geometry
     {
         public int Side { get; set; }
     }
