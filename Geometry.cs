@@ -3,7 +3,6 @@ namespace MyApp
     public class Geometry
     {
         public int Area { get; set; }
-        public double AreaT { get; set; }
         public int Perimeter { get; set; }
         public double Circumference { get; set; }
         public void CalculatePerimeter()
@@ -28,22 +27,21 @@ namespace MyApp
 
         public void CalculateArea()
         {
-            if (this is Square s)
+            switch (this)
             {
-                s.Area = (int) Math.Pow(s.Side, 2);
-            }
-            else if (this is Rectangle r)
-            {
-                r.Area = r.Width * r.Height;
-            }
-            else if (this is Triangle t)
-            {
-                double x = (t.SideA + t.Base + t.SideC) / 2.0;
-                t.AreaT = Math.Sqrt(x * (x - t.SideA) * (x - t.Base) * (x - t.SideC));
-            }
-            else if (this is Circle c)
-            {
-                c.Area = (int) (Math.PI * Math.Pow(c.Radius, 2));
+                case Square s:
+                    s.Area = (int)Math.Pow(s.Side, 2);
+                    break;
+                case Rectangle r:
+                    r.Area = r.Width * r.Height;
+                    break;
+                case Triangle t:
+                    double x = (t.SideA + t.Base + t.SideC) / 2.0;
+                    t.Area = (int)Math.Sqrt(x * (x - t.SideA) * (x - t.Base) * (x - t.SideC));
+                    break;
+                case Circle c:
+                    c.Area = (int)(Math.PI * Math.Pow(c.Radius, 2));
+                    break;
             }
         }
     }

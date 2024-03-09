@@ -27,7 +27,7 @@ namespace MyApp
             t.SideC = 5;
             t.CalculateArea();
             t.CalculatePerimeter();
-            Console.WriteLine("Area of a Triangle: {0}",t.AreaT);
+            Console.WriteLine("Area of a Triangle: {0}",t.Area);
             Console.WriteLine("Perimeter of a Triangle: {0}\n",t.Perimeter);
 
             Circle c = new Circle();
